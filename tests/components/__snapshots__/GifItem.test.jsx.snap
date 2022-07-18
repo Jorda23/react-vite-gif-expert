@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en <GifItem /> debe de hacer math con el snapShot  1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Saitma"
+      src="https://www.google.com/search?q=saitama&rlz=1C1ALOY_esNI998NI998&oq=saitam&aqs=chrome.1.69i57j0i433i512j0i131i433i512j0i512l7.5552j0j7&sourceid=chrome&ie=UTF-8"
+    />
+    <p>
+      Saitma
+    </p>
+  </div>
+</div>
+`;
